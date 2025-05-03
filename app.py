@@ -1,0 +1,5 @@
+print('hello')
+print('im mohsin')
+print('Who are you?')
+print('im mullick')
+print('plese give me the 10 time *\n'*10)
