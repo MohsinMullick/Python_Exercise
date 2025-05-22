@@ -1,6 +1,5 @@
-"""Write a program that checks if a number is even or odd."""
-numbers=float(input(f"Enter the number:"))
-if numbers%2==0:
-    print(f"The number is even.")
-elif numbers%2!=0:
-    print(f"The number is odd.")
+n=int(input("Enter a numbers:"))
+if n%2==0:
+    print(f"The number {n} is even")
+else:
+    print(f"The number {n} is odd")
